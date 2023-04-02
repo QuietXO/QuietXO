@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning about Artificial Intelligence
 - 📫 How to reach me rposa01@gmail.com
 - 🚀 Project Euler
-[🚀 Project Euler](https://projecteuler.net/profile/QuietXO.png)
+![🚀 Project Euler](https://projecteuler.net/profile/QuietXO.png)
