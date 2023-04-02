@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning about Artificial Intelligence
 - 📫 How to reach me rposa01@gmail.com
 - 🚀 Project Euler => Solved 22 out of 837 problems
+![🚀 Project Euler](https://projecteuler.net/profile/QuietXO.png)
